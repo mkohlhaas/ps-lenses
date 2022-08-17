@@ -1,0 +1,47 @@
+import Prelude
+
+import Color as Color
+import Critter4Us.Animal as Animal
+import Data.Array as Array
+import Data.Either
+import Data.Either (Either(..))
+import Data.Lens
+import Data.Lens.At
+import Data.Lens.Index
+import Data.Lens.Iso.Newtype (_Newtype)
+import Data.Lens.Prism
+import Data.Lens.Record (prop)
+import Data.List
+import Data.Map (Map)
+import Data.Map as Map
+import Data.Maybe
+import Data.Monoid
+import Data.Monoid.Additive
+import Data.Monoid.Additive (Additive(..))
+import Data.Newtype (class Newtype, unwrap, wrap)
+import Data.Set as Set
+import Data.String as String
+import Data.Traversable
+import Data.Tuple
+import Data.Tuple.Nested
+import Foreign.Object as Object
+import Index
+import Intro
+import Map
+import Product
+import SumType
+import SumTypeSolutions
+import Traversal
+
+-- import Data.Lens (Traversal', Traversal, _1, traversed)
+-- import Data.Lens (lens, view, set, over, _1, _2)
+-- import Data.Lens as Lens
+-- import Data.Lens.At (at)
+-- import Data.Lens.At (class At, at)
+-- import Data.Lens.Index (ix)
+-- import Data.Map (Map)
+-- import Data.Maybe (Maybe(..))
+-- import Data.Maybe (Maybe)
+-- import Data.Traversable (class Traversable)
+-- import Data.Tuple (Tuple(..))
+-- import Data.Tuple (Tuple)
