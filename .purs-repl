@@ -26,7 +26,6 @@ import Data.Tuple
 import Data.Tuple.Nested
 import Foreign.Object as Object
 import Index
-import Intro
 import Map
 import Product
 import SumType
@@ -45,3 +44,4 @@ import Traversal
 -- import Data.Traversable (class Traversable)
 -- import Data.Tuple (Tuple(..))
 -- import Data.Tuple (Tuple)
+-- import Intro
